@@ -1479,8 +1479,8 @@
             <mxRectangle width="360" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NQAU0cCu-uLoElORpg8i-355" value="&lt;b&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;LOW LEVEL TAXONOMY OF ANALYZED PAPERS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1980" y="-1070" width="2360" height="130" as="geometry" />
+        <mxCell id="NQAU0cCu-uLoElORpg8i-355" value="&lt;b&gt;&lt;font style=&quot;font-size: 100px;&quot;&gt;TREE TAXONOMY OF ANALYZED PAPERS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="-1070" width="2040" height="130" as="geometry" />
         </mxCell>
         <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;Paper 1&lt;/font&gt;" link="https://docs.google.com/spreadsheets/d/10KBTNrgcQd_fzW8hHKyn_pX3eMxKDgqTzs3k2d5WN2I/edit?gid=0#gid=0&amp;range=B2" id="NQAU0cCu-uLoElORpg8i-356">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" parent="1" vertex="1">
